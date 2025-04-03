@@ -8,11 +8,13 @@ We will be using **UV** to install **Langflow**. First, we will install UV, and 
 
 ## 🔧 UV Installation
 
-For detailed instructions, visit the official [UV Installation Guide](https://astral.sh/uv/install.ps1).
+For detailed instructions, visit the official  <a href="https://docs.astral.sh/uv/getting-started/installation/#installation-methods" target="_blank" rel="noopener noreferrer">UV Installation Guide</a>.
+
+
 
 ## 📦 Langflow Installation
 
-For installation instructions, visit the [Langflow Installation Guide](https://example.com/langflow-installation-guide).
+For installation instructions, visit the <a href="https://docs.langflow.org/get-started-installation" target="_blank" rel="noopener noreferrer">Langflow Installation Guide</a>.
 
 ## 🧰 Step-by-Step Setup
 ### ✅ Step 1: Install UV
@@ -75,7 +77,7 @@ Once activated, install Langflow:
 uv pip install langflow
 ```
 
-> **Note:** If you encounter any issues during installation, refer to the [Troubleshooting Guide](https://github.com/AI-CCORE-BOOTCAMP/Week-3/blob/df0a61e4170128844525493dbe638b5ee1fe1a6a/Troubleshooting%20Guide%20.md).
+> **Note:** If you encounter any issues during installation, refer to the <a href="https://github.com/AI-CCORE-BOOTCAMP/Week-3/blob/df0a61e4170128844525493dbe638b5ee1fe1a6a/Troubleshooting%20Guide%20.md" target="_blank" rel="noopener noreferrer">Troubleshooting Guide</a>.
 
 ### ▶️ Step 7: Run Langflow
 To start Langflow, run:
