@@ -92,4 +92,7 @@ To start Langflow, run:
 uv run langflow run
 ```
 
+### 🧠 Example Output:
+📌 Click on the URL shown in the terminal (e.g., http://127.0.0.1:7860) to open Langflow in your default browser.
+![Alt Text](https://github.com/AI-CCORE-BOOTCAMP/Week-3/blob/6a38663e689e68c4db3b553fd57f2dbf7dd726d1/Langflow%20Running%20screen%20shot.png)
 
